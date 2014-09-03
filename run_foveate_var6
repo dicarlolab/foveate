@@ -1,0 +1,3 @@
+#!/bin/bash
+module add mit/matlab
+matlab -nosplash -nodisplay -r "foveate_var6"
